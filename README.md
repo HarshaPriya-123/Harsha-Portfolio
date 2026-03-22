@@ -33,3 +33,4 @@ This portfolio was developed to showcase my skills, projects, and achievements i
 ## 👩‍💻 Author  
 
 **Parimi Harsha Priya**  
+B.Tech – Computer Science and Engineering
