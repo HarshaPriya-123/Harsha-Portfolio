@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my projects, technical skills, and experience as an aspiring software developer. It is designed with a modern UI and provides a smooth user experience across all devices.
 
 ## 🌐 Live Demo  
-👉 https://your-portfolio-link.netlify.app/
+👉 https://harshapriyaportfolio.netlify.app/
 
 ## 📌 Features  
 - 👤 About Me section  
